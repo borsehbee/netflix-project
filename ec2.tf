@@ -1,4 +1,2 @@
 # Code to create EC2
-resource "aws_instance" "Netflix" {
-  
-}
+# type is t2.xlarge
